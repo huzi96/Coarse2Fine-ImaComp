@@ -1,4 +1,6 @@
 # Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compressionn
+### A PyTorch implementation with acceleration improvements is now available!
+Check this <a href=https://github.com/huzi96/Coarse2Fine-PyTorch>repo</a> for details.
 ## Overview
 This is the implementation of ther paper,
 > Yueyu Hu, Wenhan Yang, Jiaying Liu, 
